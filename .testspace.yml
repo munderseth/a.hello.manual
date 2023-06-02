@@ -1,6 +1,6 @@
 manual:
   issues:
-    provider: "generic"
+    provider: generic
 
 release:
   - "*"
