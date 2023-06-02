@@ -2,4 +2,6 @@ manual:
   issues:
     provider: generic
 
+releases:
+  - "*"
 commit_status: false
